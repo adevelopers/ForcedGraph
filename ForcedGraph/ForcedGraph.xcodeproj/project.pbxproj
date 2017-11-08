@@ -37,7 +37,7 @@
 /* Begin PBXFileReference section */
 		711EF7981FB1DC3E004AC13F /* Link.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Link.swift; path = Core/Link.swift; sourceTree = "<group>"; };
 		711EF79C1FB302B9004AC13F /* UIColor+extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIColor+extension.swift"; sourceTree = "<group>"; };
-		D03B755A1D7B42B60035FE5C /* Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D03B755A1D7B42B60035FE5C /* ForceGraph.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ForceGraph.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D03B755D1D7B42B60035FE5C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D03B755F1D7B42B60035FE5C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D03B75641D7B42B60035FE5C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -90,7 +90,7 @@
 		D03B755B1D7B42B60035FE5C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D03B755A1D7B42B60035FE5C /* Demo.app */,
+				D03B755A1D7B42B60035FE5C /* ForceGraph.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -126,9 +126,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D03B75591D7B42B60035FE5C /* Demo */ = {
+		D03B75591D7B42B60035FE5C /* ForceGraph */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D03B756C1D7B42B60035FE5C /* Build configuration list for PBXNativeTarget "Demo" */;
+			buildConfigurationList = D03B756C1D7B42B60035FE5C /* Build configuration list for PBXNativeTarget "ForceGraph" */;
 			buildPhases = (
 				D03B75561D7B42B60035FE5C /* Sources */,
 				D03B75571D7B42B60035FE5C /* Frameworks */,
@@ -139,9 +139,9 @@
 			);
 			dependencies = (
 			);
-			name = Demo;
+			name = ForceGraph;
 			productName = Force;
-			productReference = D03B755A1D7B42B60035FE5C /* Demo.app */;
+			productReference = D03B755A1D7B42B60035FE5C /* ForceGraph.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -174,7 +174,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D03B75591D7B42B60035FE5C /* Demo */,
+				D03B75591D7B42B60035FE5C /* ForceGraph */,
 			);
 		};
 /* End PBXProject section */
@@ -343,7 +343,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D03B756C1D7B42B60035FE5C /* Build configuration list for PBXNativeTarget "Demo" */ = {
+		D03B756C1D7B42B60035FE5C /* Build configuration list for PBXNativeTarget "ForceGraph" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D03B756D1D7B42B60035FE5C /* Debug */,
